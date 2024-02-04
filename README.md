@@ -2,6 +2,7 @@
 <h3 align="center">Persistent and enthusiastic software engineer, strongly motivated by modern-day challenges</h3>
 
 - 📫 How to reach me: **luis.hfoc.matos@gmail.com**
+- 📄 Know about my experiences: [Curriculum vitæ](http://bit.ly/luis-matos-cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
