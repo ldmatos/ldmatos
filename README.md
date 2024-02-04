@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luís de Matos</h1>
 <h3 align="center">Persistent and enthusiastic software engineer, strongly motivated by modern-day challenges</h3>
 
-- 📫 How to reach me **luis.hfoc.matos@gmail.com**
+- 📫 How to reach me: **luis.hfoc.matos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
